@@ -1,0 +1,3 @@
+
+.flaskenv file
+##here we could set environmental key pair variables
